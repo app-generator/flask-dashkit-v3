@@ -10,7 +10,7 @@
 - Unitary tests
 - Deployment scripts: Docker, Gunicorn
 - UI Kit: **Dashkit** provided by **CSSNinja**
-- **License Commercial**
+- [Commercial License](./LICENSE.md)
 
 <br />
 
