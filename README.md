@@ -21,7 +21,7 @@
 ## Dashboard Links
 
 - [Flask Dashboard Dashkit PRO](https://appseed.us/admin-dashboards/flask-dashboard-dashkit-pro) - Product page
-- [Flask Dashboard Dashkit PRO](https://docs.appseed.us/admin-dashboards/flask-dashboard-dashkit-pro) - Documentation
+- [Flask Dashboard Dashkit PRO](https://docs.appseed.us/admin-dashboards/flask-dashboard-dashkit-pro/) - Documentation
 - [Flask Dashboard Dashkit PRO](https://flask-dashboard-dashkit-pro.appseed.us/) - LIVE demo
 
 <br />
