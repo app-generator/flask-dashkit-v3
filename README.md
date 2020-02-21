@@ -13,7 +13,7 @@
 - Forms validation
 - Deployment scripts: Docker, Gunicorn / Nginx, Heroku
 - UI Kit: **[Dashkit Dashboard](https://cssninja.io/themes/dashkit)** provided by **CssNinja**
-- License: [Commercial](https://github.com/app-generator/flask-dashboard-black-pro/blob/master/LICENSE.md)
+- License: [Commercial](https://github.com/app-generator/flask-dashboard-dashkit-pro/blob/master/LICENSE.md)
 - LIVE 24/7 Support via [Discord](https://discord.gg/fZC6hup) and email **< support @ appseed.us >**
 
 <br />
@@ -21,7 +21,7 @@
 ## Dashboard Links
 
 - [Flask Dashboard Dashkit PRO](https://appseed.us/admin-dashboards/flask-dashboard-dashkit-pro) - Product page
-- [Flask Dashboard Dashkit PRO](https://github.com/app-generator/flask-dashboard-dashkit-pro) - The public repository, used for bug tracking and licensing information
+- [Flask Dashboard Dashkit PRO](https://docs.appseed.us/admin-dashboards/flask-dashboard-dashkit-pro) - Documentation
 - [Flask Dashboard Dashkit PRO](https://flask-dashboard-dashkit-pro.appseed.us/) - LIVE demo
 
 <br />
@@ -118,6 +118,10 @@ The boilerplate code is built with a modular structure that follows the recommen
 <br />
 
 ## Build from sources
+
+> Note: this is a private repository. To get access, you should buy a license from the [product page](https://appseed.us/admin-dashboards/flask-dashboard-dashkit-pro). 
+
+<br />
 
 ```bash
 $ # Get the code
